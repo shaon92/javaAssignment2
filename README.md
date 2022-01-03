@@ -1,4 +1,4 @@
-# Java Assignment 2
+# All Java Assignment
 
 ## How to run this file
 
